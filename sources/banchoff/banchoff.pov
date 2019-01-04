@@ -1,5 +1,5 @@
 // Filename banchoff.pov
-// © 1999 by Jšrg Kantel, Berlin-Neukšlln
+// Â© 1999 by JÃ¶rg Kantel, Berlin-NeukÃ¶lln
 
 #include "colors.inc"
 #include "shapes.inc"
